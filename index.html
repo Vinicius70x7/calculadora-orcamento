@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Calculadora de Orçamento Pessoal</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="container">
+    <h1>Calculadora de Orçamento Pessoal</h1>
+
+    <label>Renda Mensal:</label>
+    <input type="number" id="renda" placeholder="Ex: 3000" />
+
+    <label>Despesas Fixas:</label>
+    <input type="number" id="despesasFixas" placeholder="Ex: 1200" />
+
+    <label>Despesas Variáveis:</label>
+    <input type="number" id="despesasVariaveis" placeholder="Ex: 600" />
+
+    <button onclick="calcularOrcamento()">Calcular</button>
+
+    <div id="resultado"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
