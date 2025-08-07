@@ -13,7 +13,7 @@ Este projeto é uma aplicação web simples feita em **HTML, CSS e JavaScript** 
 
 - HTML5
 - CSS3
-- JavaScript Puro
+- JavaScript 
 
 ## 📁 Como Rodar o Projeto
 
