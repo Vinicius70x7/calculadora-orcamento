@@ -19,7 +19,7 @@ Este projeto é uma aplicação web simples feita em **HTML, CSS e JavaScript** 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-orcamento.git
+   git clone https://github.com/Vinicius70x7/calculadora-orcamento.git
    ```
 
 2. Abra a pasta no VS Code:
