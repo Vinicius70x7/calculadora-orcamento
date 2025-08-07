@@ -32,7 +32,7 @@ Este projeto é uma aplicação web simples feita em **HTML, CSS e JavaScript** 
 
 ## 🧑‍🎓 Projeto Acadêmico
 
-Este projeto foi desenvolvido como parte da disciplina de [nome da matéria] na [nome da faculdade].
+Este projeto foi desenvolvido como parte da disciplina de Design Prossional na Cruzeiro do Sul Virtual no curso de ADS.
 
 ---
 
