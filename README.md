@@ -36,4 +36,4 @@ Este projeto foi desenvolvido como parte da disciplina de [nome da matéria] na 
 
 ---
 
-Feito com 💙 por Vinicius Machado
+Feito para colocar o financeiro no azul por Vinicius Machado
