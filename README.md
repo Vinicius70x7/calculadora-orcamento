@@ -32,8 +32,8 @@ Este projeto é uma aplicação web simples feita em **HTML, CSS e JavaScript** 
 
 ## 🧑‍🎓 Projeto Acadêmico
 
-Este projeto foi desenvolvido como parte da disciplina de Design Prossional na Cruzeiro do Sul Virtual no curso de ADS.
+Este projeto foi desenvolvido no desafio proposto da disciplina de Design Prossional na Cruzeiro do Sul Virtual no curso de ADS.
 
 ---
 
-Feito para colocar o financeiro no azul por Vinicius Machado
+Feito para colocar o financeiro no azul por Vinicius Machado.
